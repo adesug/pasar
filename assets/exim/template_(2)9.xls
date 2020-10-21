@@ -1,0 +1,157 @@
+ 
+ <table border="1" width="100%">
+ 
+      <thead>
+ 
+           <tr>
+ 
+                <th>ID</th>
+                <th>NAMA</th>
+                <th>TOTAL</th>
+                <th>SATUAN</th>
+                <th>HARGA</th>
+                <th>HARGA DISKON</th>
+                <th>IS AVAILABLE</th>
+ 
+           </tr>
+ 
+      </thead>
+ 
+      <tbody>
+ 
+            
+           <tr>
+
+                <td>1</td>
+                <td>bayam cabut</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>0</td>
+                <td></td>
+                <td>1</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>74</td>
+                <td>Cempedak</td>
+                <td>100</td>
+                <td>gr</td>
+                <td></td>
+                <td></td>
+                <td>1</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>143</td>
+                <td>Royco Rasa Sapi</td>
+                <td></td>
+                <td>pcs</td>
+                <td>1500</td>
+                <td></td>
+                <td>1</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>145</td>
+                <td>Beras Rojo Lele</td>
+                <td>5</td>
+                <td>Kg</td>
+                <td>150000</td>
+                <td></td>
+                <td>0</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>146</td>
+                <td>Cobek Batu</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>25000</td>
+                <td></td>
+                <td>0</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>147</td>
+                <td>Royco Rasa Kuda</td>
+                <td></td>
+                <td>pcs</td>
+                <td>2000</td>
+                <td>1500</td>
+                <td>1</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>148</td>
+                <td>Paket Sayur Lodeh</td>
+                <td></td>
+                <td>pcs</td>
+                <td>15000</td>
+                <td>10000</td>
+                <td>0</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>149</td>
+                <td>Beras Rojo Lele</td>
+                <td></td>
+                <td>kg</td>
+                <td>100000</td>
+                <td>0</td>
+                <td>1</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>150</td>
+                <td>Kolak Pilkita</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2000</td>
+                <td>1500</td>
+                <td>1</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>151</td>
+                <td>Daging Kambing</td>
+                <td>1</td>
+                <td>kg</td>
+                <td>60000</td>
+                <td>0</td>
+                <td>0</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>152</td>
+                <td>Ikan Gurameh</td>
+                <td>500</td>
+                <td>kg</td>
+                <td>15000</td>
+                <td>0</td>
+                <td>0</td>
+           </tr>
+ 
+            
+      </tbody>
+ 
+ </table>

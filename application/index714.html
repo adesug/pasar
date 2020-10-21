@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+  <title>Monitoring Project S2P</title>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+  <script src="http://114.6.64.2:1024/assets/js/angular.min.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="http://114.6.64.2:1024/assets/dist/css/bootstrapmon.min.css">
+  <script>
+  var app = angular.module('myApp', []);
+
+  app.controller('monitoring', function($interval,$http,$scope) {
+    var vm = this;
+    vm.positions = [];
+    var total=0;
+    $scope.pagenav=0;
+    $scope.loading=false;
+
+    var generateMarkers = function(page) {
+      vm.positions = [];
+      $http.get("http://192.168.114.10/auth/get_monitoring/"+page)
+      .then(function(response) {
+
+        $scope.loading=false;
+        $scope.data_monitoring = response.data;
+        return $scope.data_monitoring;
+      });
+
+      $http.get("http://192.168.114.10/auth/get_monitoring_count")
+      .then(function(response) {
+        var cinta=parseInt(response.data);
+        var offset=10;
+        var hasil=cinta/offset;
+        total=(Math.floor(hasil))*10;
+        $scope.totalnav=total;
+      });
+
+      // console.log($scope.data_monitoring);
+    };
+
+    generateMarkers(0);
+
+    var i=0;
+
+    // $interval(function(){
+    //   var loop=i++;
+    //   var loopten=((loop*10)+10);
+    //   if(loopten==$scope.totalnav){
+    //     i=-1;
+    //   }
+    //   $scope.pagenav=loopten;
+    //   generateMarkers(loopten);
+    // }, 20000);
+
+
+    $scope.next_page=function(page){
+    $scope.loading=true;
+      $scope.pagenav=page;
+      generateMarkers(page);
+    }
+    $scope.prev_page=function(page){
+    $scope.loading=true;
+      $scope.pagenav=page;
+      generateMarkers(page);
+    }
+
+    $scope.getdeadline=function(endtime){
+      var t = Date.parse(endtime) - Date.parse(new Date());
+      var seconds = Math.floor( (t/1000) % 60 );
+      var minutes = Math.floor( (t/1000/60) % 60 );
+      var hours = Math.floor( (t/(1000*60*60)) % 24 );
+      var days = Math.floor( t/(1000*60*60*24) );
+      if(endtime=='Invalid Date'){
+        return 'Error : Schedules belum ada.';
+      }else if(days>=0){
+        return days+' d '+hours+' h '+minutes+' m '+seconds+' s';
+      }else{
+        return 'Waktu Project Habis.';
+      };
+    }
+
+    $scope.getdate=function(endtime,lama_pekerjaan){
+      var days = lama_pekerjaan;
+      return new Date(Date.parse(endtime)+(days*24*60*60*1000));
+    }
+
+  });
+
+  </script>
+  <style>
+
+  </style>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <div ng-controller="monitoring">
+          <br>
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th colspan="7">
+                  <center><h2>Monitoring Project PT. S2P Unit #3</h2></center></th>
+                </tr>
+                <tr>
+                  <th><center>PO/SPK</center></th>
+                  <th><center>Subject</center></th>
+                  <th><center>PIC</center></th>
+                  <th><center>Vendor Name</center></th>
+                  <th><center>Deadline</center></th>
+                  <th><center>Progress</center></th>
+                  <th><center>Status</center></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-show="loading" >
+                  <td  colspan="7"><center>Loading...</center></td>
+                </tr>
+                <tr ng-hide="loading" ng-repeat="mon in data_monitoring">
+                  <td>{{mon.proj_po_spk}}</td>
+                  <td><b>{{mon.proj_name}}</b><br>{{mon.proj_descr}}</td>
+                  <td>S2P : {{mon.pic_s2p}}<br>
+                    VE : {{mon.cp_perusahaan}}
+                  </td>
+                  <td>{{mon.nama_perusahaan}}</td>
+                  <td>
+                    <span class="label label-primary">{{getdeadline(getdate(mon.proj_date_start,mon.proj_day_total))}}</span></td>
+                    <td>
+                      <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="{{mon.proj_progress}}" aria-valuemin="0" aria-valuemax="100"  style="width: {{mon.proj_progress}}%">
+                          {{mon.proj_progress}}%
+                        </div>
+                      </div>
+                    </td>
+                    <td>
+                      <a class="btn btn-info btn-xs" ng-show="mon.proj_progress!=100" href="http://192.168.114.10/eproj/vendor_rpt/monitoring_view/{{mon.proj_id}}"> In Progress</a>
+                      <a class="btn btn-info btn-xs" ng-show="mon.proj_progress==100" href="http://192.168.114.10/eproj/vendor_rpt/monitoring_view/{{mon.proj_id}}"> Finish</a>
+
+                    </td>
+                  </div>
+                </tr>
+              </tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="7">
+                        <button class="btn btn-primary btn-xs" ng-disabled="pagenav<=0" ng-click="prev_page(pagenav-10)" ><span aria-hidden="true">&larr;</span> Previous</button>
+                        <button class="btn btn-primary  btn-xs pull-right" ng-disabled="pagenav>=totalnav" ng-click="next_page(pagenav+10)">Next <span aria-hidden="true">&rarr;</span></button>
+                      </ul>
+                    </nav>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="7"><marquee bgcolor="white"><font color="black"><h5>[e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - [e-Office GO LIVE] Sudahkah anda merespon disposisi hari ini ? - </h5></font></marquee></td>
+                </tr>
+              </tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  </html>

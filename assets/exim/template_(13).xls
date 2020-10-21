@@ -1,0 +1,4810 @@
+ 
+ <table border="1" width="100%">
+ 
+      <thead>
+ 
+           <tr>
+ 
+                <th>ID</th>
+                <th>NAMA</th>
+                <th>TOTAL</th>
+                <th>SATUAN</th>
+                <th>HARGA</th>
+                <th>HARGA DISKON</th>
+                <th>IS AVAILABLE</th>
+                <th>CATEGORY</th>
+ 
+           </tr>
+ 
+      </thead>
+ 
+      <tbody>
+ 
+            
+           <tr>
+
+                <td>152</td>
+                <td>Ikan Gurameh</td>
+                <td>500</td>
+                <td>kg</td>
+                <td>26000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333134</td>
+                <td>Bayam</td>
+                <td>1</td>
+                <td>Ikat</td>
+                <td>4000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333136</td>
+                <td>Beras Lumbung Padi</td>
+                <td>5</td>
+                <td>kg</td>
+                <td>63550</td>
+                <td>65000</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333137</td>
+                <td>BERAS SANIA</td>
+                <td>5</td>
+                <td>KG</td>
+                <td>63550</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333138</td>
+                <td>BERAS LAHAP</td>
+                <td>5</td>
+                <td>KG</td>
+                <td>64700</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333139</td>
+                <td>BERAS ORGANIK Pandan Wangi PUREGREEN</td>
+                <td>1</td>
+                <td>kg</td>
+                <td>38500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>organik</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333140</td>
+                <td>kubis ungu</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5600</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333141</td>
+                <td>Lobak</td>
+                <td>200</td>
+                <td>gr</td>
+                <td>4000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333143</td>
+                <td>Tomat </td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333144</td>
+                <td>Kecambah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333145</td>
+                <td>Tauge</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1300</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333146</td>
+                <td>Terong Ungu</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1700</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333152</td>
+                <td>Cabai Rawit Hijau</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3300</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333154</td>
+                <td>Kaboca</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1800</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333155</td>
+                <td>Jagung</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1700</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333156</td>
+                <td>Oyong</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1800</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333157</td>
+                <td>Labu Siam</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1400</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333158</td>
+                <td>Sawi Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1700</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333159</td>
+                <td>Naga</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333160</td>
+                <td>Apel Fuji</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333161</td>
+                <td>Apel Fuji Sun Moon</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333162</td>
+                <td>Apel USA</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333163</td>
+                <td>pepaya</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333164</td>
+                <td>pear yali</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2300</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333165</td>
+                <td>pear century</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333166</td>
+                <td>Pear sweet</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333167</td>
+                <td>melon</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1800</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333168</td>
+                <td>Semangka</td>
+                <td>500</td>
+                <td>gram</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333169</td>
+                <td>Alpukat</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3800</td>
+                <td></td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333170</td>
+                <td>Kelengkeng</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333171</td>
+                <td>Semangka Kuning</td>
+                <td>500</td>
+                <td>gram</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333172</td>
+                <td>Melon Munami</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333173</td>
+                <td>Jeruk Malang</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333174</td>
+                <td>Plum Black</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333175</td>
+                <td>Jeruk Kino</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>24000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333176</td>
+                <td>Jeruk Limo</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333177</td>
+                <td>Jeruk Nipis</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333178</td>
+                <td>Kentang Besar</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333179</td>
+                <td>Kentang Kecil</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1400</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333180</td>
+                <td>Kentang Stik</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333181</td>
+                <td>Ubi Cilembu</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333182</td>
+                <td>Kentang Rendang</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333183</td>
+                <td>Belimbing</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333184</td>
+                <td>Manggis</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333185</td>
+                <td>Anggur</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333186</td>
+                <td>Kiwi</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333187</td>
+                <td>Lemon Import</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>7000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333188</td>
+                <td>Plum Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>9000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333189</td>
+                <td>Mangga</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>13000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333190</td>
+                <td>Timun Suri</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333191</td>
+                <td>Kluwek</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333192</td>
+                <td>Pala</td>
+                <td>1</td>
+                <td>Pcs</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333197</td>
+                <td>Lengkuas</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333198</td>
+                <td>Jahe</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333199</td>
+                <td>Kunyit</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333200</td>
+                <td>Temulawak</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333201</td>
+                <td>Kencur</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333202</td>
+                <td>Gula Jawa Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1900</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333206</td>
+                <td>Gula Batu Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333207</td>
+                <td>Gula Batu Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3125</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333210</td>
+                <td>Beras Maknyus</td>
+                <td>5</td>
+                <td>kg</td>
+                <td>60000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333211</td>
+                <td>Beras Rajalele</td>
+                <td>5</td>
+                <td>kg</td>
+                <td>186000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333213</td>
+                <td>Beras Super Sun </td>
+                <td>5</td>
+                <td>kg</td>
+                <td>95700</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333214</td>
+                <td>Beras Beraskita</td>
+                <td>5</td>
+                <td>kg</td>
+                <td>59400</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333215</td>
+                <td>Gula Pasir</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1400</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333230</td>
+                <td>Bayam Merah</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>4000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333231</td>
+                <td>Wortel</td>
+                <td>1</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333232</td>
+                <td>brokoli</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333233</td>
+                <td>kangkung</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333234</td>
+                <td>seledri</td>
+                <td>50</td>
+                <td>gr</td>
+                <td>1000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333235</td>
+                <td>daun bawang</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333236</td>
+                <td>kubis</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1200</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333237</td>
+                <td>bunga kol</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333245</td>
+                <td>Bawang Merah Super</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333246</td>
+                <td>Bawang Kathing/Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333248</td>
+                <td>Cabai Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333249</td>
+                <td>Cabai Rawit</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333251</td>
+                <td>Cabai Hijau</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333252</td>
+                <td>Kaboca</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>4500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333256</td>
+                <td>Baby Welok (isi 5-6)</td>
+                <td>1</td>
+                <td>Pcs</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333258</td>
+                <td>Biji Melinjo</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333259</td>
+                <td>Daun Melinjo</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333260</td>
+                <td>Jengkol</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333261</td>
+                <td>Pete</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333262</td>
+                <td>Buncis</td>
+                <td>1</td>
+                <td>bungkus</td>
+                <td>4500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333263</td>
+                <td>Kacang Panjang</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>4000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333264</td>
+                <td>Timun</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>4500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333265</td>
+                <td>Daun Pepaya</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333266</td>
+                <td>Pare</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333267</td>
+                <td>caisim</td>
+                <td>200</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333268</td>
+                <td>Sawi Pahit</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>4000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333269</td>
+                <td>Pokcay</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333270</td>
+                <td>Sayur Pakis</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333271</td>
+                <td>Kemangi</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333272</td>
+                <td>Kecombrang</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333273</td>
+                <td>Lentre</td>
+                <td>1</td>
+                <td>pack</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333274</td>
+                <td>Kelapa Parut</td>
+                <td>1</td>
+                <td>pack</td>
+                <td>4500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333275</td>
+                <td>Kecipir</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>4000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333276</td>
+                <td>Ikan Bilis</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333277</td>
+                <td>Cumi Asin</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>15000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333278</td>
+                <td>Ikan Kapasan</td>
+                <td>50</td>
+                <td>gr</td>
+                <td>11000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333279</td>
+                <td>Teri Nasi Kecil</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>15750</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333280</td>
+                <td>Teri Jengki</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>13500</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333281</td>
+                <td>Bandeng</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333282</td>
+                <td>Salmon Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>37500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333283</td>
+                <td>Udang</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6600</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333284</td>
+                <td>Udang Besar</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8500</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333285</td>
+                <td>Kakap Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4500</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333286</td>
+                <td>Ikan Lele</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333287</td>
+                <td>Cumi Basah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333288</td>
+                <td>Ikan Kembung</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333289</td>
+                <td>Ikan Tongkol</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333290</td>
+                <td>Ikan Bawal Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8200</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333291</td>
+                <td>Ikan Tengiri</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>7500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333292</td>
+                <td>Ebi</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>15000</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333293</td>
+                <td>Ikan Pindang Keranjangan</td>
+                <td>1</td>
+                <td>pack</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333308</td>
+                <td>Telur Ayam</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2350</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333309</td>
+                <td>Telur Ayam Kampung</td>
+                <td>1</td>
+                <td>butir</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333310</td>
+                <td>Telur Puyuh</td>
+                <td>10</td>
+                <td>butir</td>
+                <td>4500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333311</td>
+                <td>Telor Bebek</td>
+                <td>1</td>
+                <td>butir</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333312</td>
+                <td>Telur Pindang</td>
+                <td>1</td>
+                <td>butir</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333313</td>
+                <td>Telor Asin</td>
+                <td>1</td>
+                <td>butir</td>
+                <td>3500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333314</td>
+                <td>Ayam Sayur</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3750</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333315</td>
+                <td>Ayam Kampung</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8100</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333316</td>
+                <td>Daging Sapi</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>12000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333317</td>
+                <td>Iga Sapi</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>9000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333318</td>
+                <td>babat</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333319</td>
+                <td>Iso/Usus</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333320</td>
+                <td>Kikil Kulit</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333321</td>
+                <td>Paru</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333322</td>
+                <td>Hati Sapi</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333323</td>
+                <td>Bakso Sapi</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>9000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333324</td>
+                <td>Tempe Mendoan</td>
+                <td>1</td>
+                <td>bungkus</td>
+                <td>400</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333325</td>
+                <td>Tempe Plastik</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>4500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333326</td>
+                <td>Tempe Daun</td>
+                <td>250</td>
+                <td>gram</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333327</td>
+                <td>Tahu Kuning</td>
+                <td>10</td>
+                <td>buah</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333328</td>
+                <td>Tahu Putih</td>
+                <td>5</td>
+                <td>buah</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333341</td>
+                <td>Bawang Bombay</td>
+                <td>200</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>0</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333342</td>
+                <td>Gendot</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>4000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333343</td>
+                <td>Bakso Campur</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333344</td>
+                <td>Tongkol Pindang</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td>0</td>
+                <td>0</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333345</td>
+                <td>Beras Ketan</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>8000</td>
+                <td>0</td>
+                <td>0</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333346</td>
+                <td>Beras IR poles</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>0</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333348</td>
+                <td>Cincau Hitam</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>0</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333349</td>
+                <td>Kolang kaling</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333350</td>
+                <td>Kacang Tanah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333351</td>
+                <td>Kacang Kupas</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333352</td>
+                <td>Emping Kecil</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333353</td>
+                <td>Emping Besar</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333354</td>
+                <td>Emping Jumbo</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>11000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333355</td>
+                <td>Nanas Madu Besar</td>
+                <td>1</td>
+                <td>buah</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333356</td>
+                <td>Sirsak</td>
+                <td>500</td>
+                <td>gram</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333357</td>
+                <td>Apel Manalagi</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>6800</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333358</td>
+                <td>Selasih</td>
+                <td>1</td>
+                <td>bungkus</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333359</td>
+                <td>Nata De Coco D'lima Mentah</td>
+                <td>1</td>
+                <td>bungkus</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333360</td>
+                <td>Jeli Merah</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333361</td>
+                <td>Jeli Hijau</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333362</td>
+                <td>Labu Siam Irisan</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333363</td>
+                <td>Uceng </td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333364</td>
+                <td>Kayu Manis kecil</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>3500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333367</td>
+                <td>Kelapa Glondong</td>
+                <td>1</td>
+                <td>buah</td>
+                <td>8000</td>
+                <td></td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333368</td>
+                <td>Kapri</td>
+                <td>50</td>
+                <td>gr</td>
+                <td>2600</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333369</td>
+                <td>Ikan Klapan</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>16000</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333370</td>
+                <td>Ikan Sangga Langit</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333371</td>
+                <td>Ikan Lendra</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>6500</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333372</td>
+                <td>Terong Hijau</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333373</td>
+                <td>Lenca</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333374</td>
+                <td>Kemaron</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333376</td>
+                <td>Oncom</td>
+                <td>1</td>
+                <td>pack</td>
+                <td>6000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333377</td>
+                <td>Dage </td>
+                <td>1</td>
+                <td>buah</td>
+                <td>550</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333378</td>
+                <td>Dage Besar</td>
+                <td>1</td>
+                <td>buah</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333379</td>
+                <td>Tempe Muntuk</td>
+                <td>1</td>
+                <td>buah</td>
+                <td>300</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333380</td>
+                <td>Tempe Muntuk Datar</td>
+                <td>1</td>
+                <td>buah</td>
+                <td>250</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333381</td>
+                <td>Daging Kambing</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>11500</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333382</td>
+                <td>Babat kambing</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333384</td>
+                <td>Hati kambing</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>10000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333385</td>
+                <td>Tulang kambing</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333386</td>
+                <td>Paprika Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>9000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333387</td>
+                <td>Paprika Hijau</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>10000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333388</td>
+                <td>Paprika Kuning</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>10000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333389</td>
+                <td>Asem jawa</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333390</td>
+                <td>Kerupuk Kentang Asin</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2600</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333391</td>
+                <td>Kerupuk Kresek Singkong</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3300</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333392</td>
+                <td>Kerupuk Mawar Besar Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2900</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333393</td>
+                <td>Kerupuk Mawar Besar Kunig</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2900</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333394</td>
+                <td>Krecek Mentah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>21000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333395</td>
+                <td>Rambak Asin</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>18500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333396</td>
+                <td>Kerupuk Taro</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2600</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333397</td>
+                <td>Kerupuk Tersanjung</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2400</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333398</td>
+                <td>Kerupuk Ikan Wiko Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3300</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333399</td>
+                <td>Kerupuk Topsi Merah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2600</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333400</td>
+                <td>Kerupuk Bawang Putih</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333401</td>
+                <td>Kerupuk Bawang Kaca</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2250</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333402</td>
+                <td>Kerupuk Kancing</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>4000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333403</td>
+                <td>Kerupuk Lek Hie</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>0</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333404</td>
+                <td>Kerupuk Udel Mini</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2800</td>
+                <td>0</td>
+                <td>0</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333405</td>
+                <td>Jeli Motif Bungkus Besar</td>
+                <td>500</td>
+                <td>gr</td>
+                <td>8500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333406</td>
+                <td>Gula Jawa</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1800</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333407</td>
+                <td>Bawang Goreng</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333408</td>
+                <td>Beet Root</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>8000</td>
+                <td></td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333409</td>
+                <td>Bertolli Classico 250 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>48500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333410</td>
+                <td>Bertolli Classico 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>91000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333411</td>
+                <td>Bertolli ELOO 250 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>48500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333412</td>
+                <td>Bertolli ELOO 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>90000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333413</td>
+                <td>Bertolli Extra Virgin 250 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>49500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333414</td>
+                <td>Bertolli Extra Virgin 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>93000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333415</td>
+                <td>Bimoli Refil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13800</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333417</td>
+                <td>Bimoli Special Refill 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12800</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333418</td>
+                <td>Borges Classic Olive Oil 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>93000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333419</td>
+                <td>Borges Extra Light Olive Oil 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>93000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333420</td>
+                <td>Borges Extra Virgin Olive Oil 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>96000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333421</td>
+                <td>Borges Grapessed Oil 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>65000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333422</td>
+                <td>Borges Olive Oil With Garlic 500 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>88500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333423</td>
+                <td>CCO Corn Oil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>38500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333424</td>
+                <td>Fillippo Berio Extra Light Tasting Oil</td>
+                <td>250</td>
+                <td>ml</td>
+                <td>52000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333425</td>
+                <td>Fillippo Berio Extra Virgin Olive Oil 250 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>55500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333426</td>
+                <td>Fillippo Berio Olive Oil 250 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>51500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333427</td>
+                <td>Fortuner Refil 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>21500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333428</td>
+                <td>Golden Bridge Corn Oil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>56000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333429</td>
+                <td>Golden Bridge Salad Oil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>51000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333430</td>
+                <td>Hemart Botol 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>11500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333431</td>
+                <td>KCO Corn Oil</td>
+                <td>1</td>
+                <td>lt</td>
+                <td>33500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333432</td>
+                <td>Kemiri </td>
+                <td>100</td>
+                <td>gr</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333433</td>
+                <td>Ketumbar</td>
+                <td>50</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333434</td>
+                <td>Mazola Minyak Bunga Matahari 450 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>42500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333435</td>
+                <td>Mazola Minyak Bunga Matahari 900 ml</td>
+                <td>1</td>
+                <td>pc</td>
+                <td>73000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333436</td>
+                <td>Mazola Minyak Kedelai </td>
+                <td>450</td>
+                <td>ml</td>
+                <td>41500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333437</td>
+                <td>Mazola Minyak Kedelai </td>
+                <td>900</td>
+                <td>ml</td>
+                <td>69000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333438</td>
+                <td>Merica</td>
+                <td>50</td>
+                <td>gr</td>
+                <td>7000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333439</td>
+                <td>Rose Brand Refil 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>22300</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333440</td>
+                <td>Sania Refil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>11500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333441</td>
+                <td>Sania Refil 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>22000</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333442</td>
+                <td>Sunco Refil 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>23000</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333443</td>
+                <td>Sunco Refil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333444</td>
+                <td>Tawon Refil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>11000</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333445</td>
+                <td>Tawon Refil 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>21500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333446</td>
+                <td>Tomat Ijo</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333447</td>
+                <td>Tropical Botol 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333448</td>
+                <td>Tropical Refil 1 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333449</td>
+                <td>Tropical Refil 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>23500</td>
+                <td></td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333450</td>
+                <td>Tropicana Slim Canola Oil</td>
+                <td>950</td>
+                <td>ml</td>
+                <td>59000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333451</td>
+                <td>Tropicana Slim Corn Oil</td>
+                <td>950</td>
+                <td>ml</td>
+                <td>67500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333452</td>
+                <td>Tropicana Slim Corn Oil Refill</td>
+                <td>950</td>
+                <td>ml</td>
+                <td>67000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333453</td>
+                <td>Yummy Biters EVOO Kiddy</td>
+                <td>250</td>
+                <td>ml</td>
+                <td>73500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333454</td>
+                <td>Lada Hitam</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>13500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333455</td>
+                <td>Saos Tiram Lee Kum Kee Cap Panda 255 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>28000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333456</td>
+                <td>Saos Tiram Lee Kum Kee Non MSG 255 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>26000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333555</td>
+                <td>Totole Kaldu Jamur 200 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>26000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333556</td>
+                <td>Totole Kaldu Jamur 400 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>49000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333557</td>
+                <td>Totole Kaldu Jamur 80 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333558</td>
+                <td>Sunbell Gold </td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>26000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333559</td>
+                <td>Sunbell Tuna</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>17500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333560</td>
+                <td>Sunbell Tuna Chilli Sauce</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>15000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333561</td>
+                <td>Sunbell Tuna Rica Rica</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>15000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333562</td>
+                <td>Sunbell Tuna Bumbu Nasi Goreng</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>15000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333563</td>
+                <td>Bestunaku Minyak Sayur</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333564</td>
+                <td>Pronas Sambal Goreng Tuna</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>14000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333565</td>
+                <td>Maestro Thousand Island</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>25500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333566</td>
+                <td>Maestro Mayonaise 1 kg</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>26500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333567</td>
+                <td>Mamasuka Cheessy Mayo 300 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>22500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333568</td>
+                <td>Mamasuka Mayonaise 300 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>26000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333569</td>
+                <td>Mamasuka Mayonais 1 kg</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>39500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333570</td>
+                <td>Mamasuka Salad Dressing </td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>25500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333571</td>
+                <td>Jambu Kristal</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>6000</td>
+                <td></td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333572</td>
+                <td>Mamasuka Deli Saos Tiram Manis</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>16500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333573</td>
+                <td>Mamasuka Tepung Roti</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333574</td>
+                <td>Emina Cheese Moza</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>23500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333575</td>
+                <td>Emina Cheese Mild</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>15500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333576</td>
+                <td>Emina Cheese Rich</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>20200</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333577</td>
+                <td>Kraft Cheddar</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>20000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333578</td>
+                <td>Kraft Quick Melt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>26500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333579</td>
+                <td>Kraft Singles 10 Slices</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>19500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333580</td>
+                <td>Kraft Singles 5 Slice</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>10000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333581</td>
+                <td>Wijen</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>7500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333582</td>
+                <td>Kacang Hijau</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333583</td>
+                <td>Filma Botol 1 liter</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333584</td>
+                <td>Filma Refill 2 lt</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>22000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333585</td>
+                <td>Cocoa 90 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>19000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333586</td>
+                <td>Cocoa 45 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333587</td>
+                <td>Kecap Inggris Harum 135 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333588</td>
+                <td>ABC Minyak Wijen 115 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>34500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333589</td>
+                <td>ABC Kecap Inggris 195 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>9200</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333590</td>
+                <td>Kecap Bango 220 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>11000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333591</td>
+                <td>Bango 400 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>17500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333592</td>
+                <td>Kecap Bango 575 ml</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>24000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333593</td>
+                <td>Del Monte Spagetti Sauce</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>15000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333594</td>
+                <td>La Fonte Pasta Sauce BBQ</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>17000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333595</td>
+                <td>Mamasuka Tepung Bakwan 100 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333596</td>
+                <td>Mamasuka Tepung Bumbu  225 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333597</td>
+                <td>Mamasuka Tepung Pisang Goreng 80 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333598</td>
+                <td>Mamasuka Rumput Laut</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>19000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333599</td>
+                <td>Ewong</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333600</td>
+                <td>Rengginang Cap Bawang Putih Coklat</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333601</td>
+                <td>Rengginang Cap Bawang Putih</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333602</td>
+                <td>Opak Kecil</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333603</td>
+                <td>Opak Besar</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333604</td>
+                <td>Tepung Mendoan</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>1250</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333605</td>
+                <td>Bumbu Pecel</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>9000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333606</td>
+                <td>Soun RRT 100 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333607</td>
+                <td>Soun RRT 250 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333608</td>
+                <td>Sagu Mutiara Cap Kucing</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>1500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333609</td>
+                <td>Kerupuk Slondok Wonosobo</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333610</td>
+                <td>Tepung Beras Mawar Rose Brand 500 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333611</td>
+                <td>Tepung Tapioka Rose Brand 500 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333612</td>
+                <td>Tepung Ketan Rose Brand 500 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>8500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333613</td>
+                <td>Garam Daun 250 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>pokok</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333614</td>
+                <td>Sun Kara</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333615</td>
+                <td>Terasi ABC</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333616</td>
+                <td>Terasi Tabita</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333617</td>
+                <td>Terasi Obor</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>8000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333618</td>
+                <td>Kecap Asin Cap Ikan</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>11000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333619</td>
+                <td>Tepung Terigu Bogasari 500 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333620</td>
+                <td>Tepung Terigu Bogasari 1 kg</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>10000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333621</td>
+                <td>Kerupuk Soto</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1750</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333622</td>
+                <td>Kembang Tahu Cap Mawar</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>16000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333623</td>
+                <td>Margarin Blue Band</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333624</td>
+                <td>Margarin Amanda</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333625</td>
+                <td>Margarin Forvita</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333626</td>
+                <td>Mete Mentah Super </td>
+                <td>100</td>
+                <td>gr</td>
+                <td>19000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ramadan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333627</td>
+                <td>Abon Anggur</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>1500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333628</td>
+                <td>Kerupuk Udang Padi Kapas kecil</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>14500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333629</td>
+                <td>Kerupuk Udang Padi Kapas tanggung</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333630</td>
+                <td>Kerupuk Udang Gajah  kecil</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333631</td>
+                <td>Kerupuk Udang Gajah  tanggung</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>12500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333632</td>
+                <td>Bihun Tanam Jagung 320 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333633</td>
+                <td>Bihun Tanam Jagung 70 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333634</td>
+                <td>Saori Saus Tiram</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>9500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333635</td>
+                <td>Sohun Cap Panda</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333636</td>
+                <td>Mireng</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333637</td>
+                <td>Macaroni Prima</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333638</td>
+                <td>Makaroni Kerang Kuah</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>2000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333639</td>
+                <td>Sasa Tepung Bumbu Seafood 80 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333640</td>
+                <td>Sasa Tepung Bumbu Ayam Krispi 80 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333641</td>
+                <td>Sasa Tepung Bumbu Pisang Goreng 80 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333642</td>
+                <td>Indofood Kare</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333643</td>
+                <td>Indofood Rawon</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333644</td>
+                <td>Indofood Rendang</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333645</td>
+                <td>Indofood Soto Ayam</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333646</td>
+                <td>Mie Bal Pipih Tjap 3 Anak</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333647</td>
+                <td>Mie Bal Tjap 3 Anak</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333648</td>
+                <td>Mie Enak </td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>18500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333649</td>
+                <td>Mie Keriting Cap Kuda Terbang</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>6500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333653</td>
+                <td>Ikan Mujaer</td>
+                <td>250</td>
+                <td>gr</td>
+                <td>8500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>ikan</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333654</td>
+                <td>Kulit Lumpia (isi 8)</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333655</td>
+                <td>Pisang Kepok/Pisang Emas/Pisang Raja</td>
+                <td>1</td>
+                <td>epek</td>
+                <td>16000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333656</td>
+                <td>Aneka Rempah</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>1500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333657</td>
+                <td>Ceker Ayam</td>
+                <td>2</td>
+                <td>pcs</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333658</td>
+                <td>Paha Ayam</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333659</td>
+                <td>Sayap Ayam</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333660</td>
+                <td>Ati Ampela Ayam</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>daging</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333661</td>
+                <td>Lafonte Spagetti-11 450 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>14500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333662</td>
+                <td>Lafonte Fettucini 450 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>15000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333663</td>
+                <td>Lafonte Elbow Macaroni</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333664</td>
+                <td>Lafonte Spiral Macaroni</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>7500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333665</td>
+                <td>San Remo Spagetti</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>23500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333666</td>
+                <td>Mie Burung Dara Pipih 140 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>3000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333667</td>
+                <td>Mie Burung Dara Kering 136 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2700</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333668</td>
+                <td>Mie Burung Dara Urai Pipih 140 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>4500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333669</td>
+                <td>Mie Burung Dara  Original 140 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>4000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333670</td>
+                <td>Eko Mie Isi 2 120 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>2500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333671</td>
+                <td>Mesoa Sealion 500 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>13000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333672</td>
+                <td>Makaroniku 100 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>5500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333673</td>
+                <td>Makaroniku 200 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>8000</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333674</td>
+                <td>Makaroniku 400 gr</td>
+                <td>1</td>
+                <td>pcs</td>
+                <td>14500</td>
+                <td></td>
+                <td>1</td>
+                <td>lain</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333675</td>
+                <td>Bumbu Giling</td>
+                <td>1</td>
+                <td>Pcs</td>
+                <td>3500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>bumbu</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333676</td>
+                <td>Asparagus</td>
+                <td>100</td>
+                <td>gr</td>
+                <td>8500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333677</td>
+                <td>Bunga Bawang Prei</td>
+                <td>1</td>
+                <td>ikat</td>
+                <td>2500</td>
+                <td>0</td>
+                <td>1</td>
+                <td>sayur</td>
+           </tr>
+ 
+            
+           <tr>
+
+                <td>33333678</td>
+                <td>Nanas Madu kecil (Isi 3)</td>
+                <td>1</td>
+                <td>bks</td>
+                <td>11000</td>
+                <td>0</td>
+                <td>1</td>
+                <td>buah</td>
+           </tr>
+ 
+            
+      </tbody>
+ 
+ </table>
